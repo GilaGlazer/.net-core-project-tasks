@@ -20,16 +20,16 @@ This project is an ASP.NET MVC Web API for managing users and items with role-ba
 
 | URL                | Method | Authorization | Description                 | Request Body     | Response Body        |
 |--------------------|--------|---------------|-----------------------------|------------------|----------------------|
-| `/api/item`        | GET    | User/Admin    | Get all items of current user | -                | List of items         |
-| `/api/item/{id}`   | GET    | User/Admin    | Get a specific item by ID   | -                | Item                  |
-| `/api/item`        | POST   | User/Admin    | Add a new item for user     | Item             | Created item + location|
-| `/api/item/{id}`   | PUT    | User/Admin    | Update a user's item        | Item             | Updated item          |
-| `/api/item/{id}`   | DELETE | User/Admin    | Delete a user's item        | -                | -                     |
-| `/api/user`        | GET    | User/Admin    | Get current user's info     | -                | User                   |
-| `/api/user`        | GET    | Admin         | Get all users (admin only)  | -                | List of users          |
-| `/api/user`        | POST   | Admin         | Add new user (admin only)   | User             | Created user + location|
-| `/api/user/{id}`   | DELETE | Admin         | Delete user and their items | -                | -                      |
-| `/api/login`       | POST   | No auth needed| Login and get JWT token     | Login credentials| JWT token               |
+| `/item`        | GET    | User/Admin    | Get all items of current user | -                | List of items         |
+| `/item/{id}`   | GET    | User/Admin    | Get a specific item by ID   | -                | Item                  |
+| `/item`        | POST   | User/Admin    | Add a new item for user     | Item             | Created item + location|
+| `/item/{id}`   | PUT    | User/Admin    | Update a user's item        | Item             | Updated item          |
+| `/item/{id}`   | DELETE | User/Admin    | Delete a user's item        | -                | -                     |
+| `/user`        | GET    | User/Admin    | Get current user's info     | -                | User                   |
+| `/user`        | GET    | Admin         | Get all users (admin only)  | -                | List of users          |
+| `/user`        | POST   | Admin         | Add new user (admin only)   | User             | Created user + location|
+| `/user/{id}`   | DELETE | Admin         | Delete user and their items | -                | -                      |
+| `/login`       | POST   | No auth needed| Login and get JWT token     | Login credentials| JWT token               |
 
 ---
 
