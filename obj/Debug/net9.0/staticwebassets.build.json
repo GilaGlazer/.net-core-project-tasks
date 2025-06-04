@@ -1,0 +1,3731 @@
+{
+  "Version": 1,
+  "Hash": "cOmKpvNweAe3xkYTuLs/fk9tEDcnemnEv31HKPxtp8g=",
+  "Source": "myProjectCore",
+  "BasePath": "_content/myProjectCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "myProjectCore\\wwwroot",
+      "Source": "myProjectCore",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\3d68ftwif1-674jx1uosw.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "html/item#[.{fingerprint=674jx1uosw}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\item.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yjnflvgb3m",
+      "Integrity": "AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\item.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9mn0q5w88w-egtmx8xh68.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/item#[.{fingerprint=egtmx8xh68}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\item.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mjkz383q11",
+      "Integrity": "wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\item.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9tvk4yz0t8-l9jajp78cn.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "html/login#[.{fingerprint=l9jajp78cn}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\login.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0k3mhgssyp",
+      "Integrity": "gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\d9ii3n3a88-2ofnhncz4y.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "css/item#[.{fingerprint=2ofnhncz4y}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\item.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "98v279w9ct",
+      "Integrity": "mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\item.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\mpuy9ff6o2-eini5yugog.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "html/user#[.{fingerprint=eini5yugog}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\user.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jeioggijlw",
+      "Integrity": "K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\user.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\n7mhv9i7j4-sa4d1iyubx.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/login#[.{fingerprint=sa4d1iyubx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\login.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i5f456g8ry",
+      "Integrity": "St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\o43gabbevl-xguq4to7mg.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "css/user#[.{fingerprint=xguq4to7mg}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\user.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xjisv9oeb8",
+      "Integrity": "7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\user.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\sft4nyyx77-7hqjb1em1a.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/general#[.{fingerprint=7hqjb1em1a}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\general.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "opiieeej1p",
+      "Integrity": "PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\general.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\tmkbqkxl7z-9zd0d83w43.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "css/login#[.{fingerprint=9zd0d83w43}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p6vgrfhsho",
+      "Integrity": "4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\u95i0r1epf-91933uwkjn.gz",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/user#[.{fingerprint=91933uwkjn}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\user.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3hft2htdfb",
+      "Integrity": "adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\user.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\item.css",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "css/item#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ofnhncz4y",
+      "Integrity": "EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\item.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\login.css",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9zd0d83w43",
+      "Integrity": "xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\user.css",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "css/user#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xguq4to7mg",
+      "Integrity": "P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\user.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\item.html",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "html/item#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "674jx1uosw",
+      "Integrity": "AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\item.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\login.html",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "html/login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l9jajp78cn",
+      "Integrity": "9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\user.html",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "html/user#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eini5yugog",
+      "Integrity": "eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\user.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\google-icon.png",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "images/google-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wcrgvu8565",
+      "Integrity": "gJrg04tHAOWO8cxFSuxk/jKPpaOCNzUnE12KpRVKaYk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\google-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\hide.png",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "images/hide#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qr8rmg9zqf",
+      "Integrity": "2jRuHmqx6bScSlC81y2aX7CaXBLw+YhbChuslkvMkg8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hide.png"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\visible.png",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "images/visible#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c7andcdkb9",
+      "Integrity": "aEA9UBkMAU4cI2wE0RA5p8Vqes0gbiBLmujZB7NexiI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\visible.png"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\general.js",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/general#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7hqjb1em1a",
+      "Integrity": "y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\general.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\item.js",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/item#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "egtmx8xh68",
+      "Integrity": "nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\item.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\login.js",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sa4d1iyubx",
+      "Integrity": "/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\user.js",
+      "SourceId": "myProjectCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\",
+      "BasePath": "_content/myProjectCore",
+      "RelativePath": "js/user#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91933uwkjn",
+      "Integrity": "fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/item.2ofnhncz4y.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\d9ii3n3a88-2ofnhncz4y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000755857899"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1322"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ofnhncz4y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/item.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8="
+        }
+      ]
+    },
+    {
+      "Route": "css/item.2ofnhncz4y.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\item.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ofnhncz4y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/item.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8="
+        }
+      ]
+    },
+    {
+      "Route": "css/item.2ofnhncz4y.css.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\d9ii3n3a88-2ofnhncz4y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ofnhncz4y"
+        },
+        {
+          "Name": "label",
+          "Value": "css/item.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM="
+        }
+      ]
+    },
+    {
+      "Route": "css/item.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\d9ii3n3a88-2ofnhncz4y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000755857899"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1322"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8="
+        }
+      ]
+    },
+    {
+      "Route": "css/item.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\item.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EpzcNuQAOUsl1o8IvjOOSEKs6mvqgIotG4P+IEz74Y8="
+        }
+      ]
+    },
+    {
+      "Route": "css/item.css.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\d9ii3n3a88-2ofnhncz4y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mXWnCVvUOyNgnKneCxQBB5S4iqj/PP1x+y1g9nGZpnM="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.9zd0d83w43.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\tmkbqkxl7z-9zd0d83w43.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001164144354"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9zd0d83w43"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.9zd0d83w43.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9zd0d83w43"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.9zd0d83w43.css.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\tmkbqkxl7z-9zd0d83w43.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9zd0d83w43"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\tmkbqkxl7z-9zd0d83w43.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001164144354"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "858"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xcO34qGILMs4BKZYvXnZWAf9IhkvNoTfIPhEQnv1MOs="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\tmkbqkxl7z-9zd0d83w43.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 11:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ahvmWFI14Y+KVKAgvBLWzFr2oJZo5W/BGKLwZ8BDCQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\o43gabbevl-xguq4to7mg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000775795190"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1288"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\user.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.css.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\o43gabbevl-xguq4to7mg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.xguq4to7mg.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\o43gabbevl-xguq4to7mg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000775795190"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1288"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xguq4to7mg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.xguq4to7mg.css",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\user.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xguq4to7mg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P4s+nhm52NmptPHQxb19h9gPtj2ydhQGaRrGCkvnkm4="
+        }
+      ]
+    },
+    {
+      "Route": "css/user.xguq4to7mg.css.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\o43gabbevl-xguq4to7mg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xguq4to7mg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Y9KkbqovBQtgi9rZTCVlILKtqHlTIf/YCQhNj2KXlA="
+        }
+      ]
+    },
+    {
+      "Route": "html/item.674jx1uosw.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\3d68ftwif1-674jx1uosw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001048218029"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "953"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "674jx1uosw"
+        },
+        {
+          "Name": "label",
+          "Value": "html/item.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww="
+        }
+      ]
+    },
+    {
+      "Route": "html/item.674jx1uosw.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\item.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "674jx1uosw"
+        },
+        {
+          "Name": "label",
+          "Value": "html/item.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww="
+        }
+      ]
+    },
+    {
+      "Route": "html/item.674jx1uosw.html.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\3d68ftwif1-674jx1uosw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "674jx1uosw"
+        },
+        {
+          "Name": "label",
+          "Value": "html/item.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw="
+        }
+      ]
+    },
+    {
+      "Route": "html/item.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\3d68ftwif1-674jx1uosw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001048218029"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "953"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww="
+        }
+      ]
+    },
+    {
+      "Route": "html/item.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\item.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AuHru6pFGANpVdCexExCOINdZHj42cN/a9dFwF229ww="
+        }
+      ]
+    },
+    {
+      "Route": "html/item.html.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\3d68ftwif1-674jx1uosw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AgoofYucMGGU1crMrR45Tz1DlxTJ3iYEP3g5eMJrLiw="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9tvk4yz0t8-l9jajp78cn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001628664495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "613"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.html.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9tvk4yz0t8-l9jajp78cn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.l9jajp78cn.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9tvk4yz0t8-l9jajp78cn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001628664495"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "613"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9jajp78cn"
+        },
+        {
+          "Name": "label",
+          "Value": "html/login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.l9jajp78cn.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9jajp78cn"
+        },
+        {
+          "Name": "label",
+          "Value": "html/login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9xiESd5/r5jfLh4NYoAkss/T7OA++vssF/HkM9wVe1w="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.l9jajp78cn.html.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9tvk4yz0t8-l9jajp78cn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9jajp78cn"
+        },
+        {
+          "Name": "label",
+          "Value": "html/login.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJN3sD6GmxfFzoIc4oLEfstMzZeoX2OqXazbwzld9BU="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.eini5yugog.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\mpuy9ff6o2-eini5yugog.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001149425287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eini5yugog"
+        },
+        {
+          "Name": "label",
+          "Value": "html/user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.eini5yugog.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eini5yugog"
+        },
+        {
+          "Name": "label",
+          "Value": "html/user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.eini5yugog.html.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\mpuy9ff6o2-eini5yugog.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eini5yugog"
+        },
+        {
+          "Name": "label",
+          "Value": "html/user.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\mpuy9ff6o2-eini5yugog.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001149425287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.html",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3115"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eusYwEcfqCDh7ffGEUyprKdXQQNoR0eQSmJPJc0nabM="
+        }
+      ]
+    },
+    {
+      "Route": "html/user.html.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\mpuy9ff6o2-eini5yugog.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "869"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6M4p4hNjGdVOx9d/lnpkqJig/eoR0BqLwrqPWkkFP4="
+        }
+      ]
+    },
+    {
+      "Route": "images/google-icon.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\google-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJrg04tHAOWO8cxFSuxk/jKPpaOCNzUnE12KpRVKaYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 08:00:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJrg04tHAOWO8cxFSuxk/jKPpaOCNzUnE12KpRVKaYk="
+        }
+      ]
+    },
+    {
+      "Route": "images/google-icon.wcrgvu8565.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\google-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJrg04tHAOWO8cxFSuxk/jKPpaOCNzUnE12KpRVKaYk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 08:00:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wcrgvu8565"
+        },
+        {
+          "Name": "label",
+          "Value": "images/google-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJrg04tHAOWO8cxFSuxk/jKPpaOCNzUnE12KpRVKaYk="
+        }
+      ]
+    },
+    {
+      "Route": "images/hide.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\hide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2jRuHmqx6bScSlC81y2aX7CaXBLw+YhbChuslkvMkg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 08:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2jRuHmqx6bScSlC81y2aX7CaXBLw+YhbChuslkvMkg8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hide.qr8rmg9zqf.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\hide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2jRuHmqx6bScSlC81y2aX7CaXBLw+YhbChuslkvMkg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 08:26:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr8rmg9zqf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/hide.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2jRuHmqx6bScSlC81y2aX7CaXBLw+YhbChuslkvMkg8="
+        }
+      ]
+    },
+    {
+      "Route": "images/visible.c7andcdkb9.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\visible.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aEA9UBkMAU4cI2wE0RA5p8Vqes0gbiBLmujZB7NexiI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 08:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c7andcdkb9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/visible.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aEA9UBkMAU4cI2wE0RA5p8Vqes0gbiBLmujZB7NexiI="
+        }
+      ]
+    },
+    {
+      "Route": "images/visible.png",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\visible.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aEA9UBkMAU4cI2wE0RA5p8Vqes0gbiBLmujZB7NexiI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 08:26:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aEA9UBkMAU4cI2wE0RA5p8Vqes0gbiBLmujZB7NexiI="
+        }
+      ]
+    },
+    {
+      "Route": "js/general.7hqjb1em1a.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\sft4nyyx77-7hqjb1em1a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003597122302"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7hqjb1em1a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/general.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U="
+        }
+      ]
+    },
+    {
+      "Route": "js/general.7hqjb1em1a.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\general.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7hqjb1em1a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/general.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U="
+        }
+      ]
+    },
+    {
+      "Route": "js/general.7hqjb1em1a.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\sft4nyyx77-7hqjb1em1a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7hqjb1em1a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/general.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA="
+        }
+      ]
+    },
+    {
+      "Route": "js/general.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\sft4nyyx77-7hqjb1em1a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003597122302"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U="
+        }
+      ]
+    },
+    {
+      "Route": "js/general.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\general.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/v3+BNeZ3sDPy0EoSSwsVbQYs05XKdaGYGubacVP4U="
+        }
+      ]
+    },
+    {
+      "Route": "js/general.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\sft4nyyx77-7hqjb1em1a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:47:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PJV//uQxMysLex732dYsqjRrtItvOPfw50yhGV90sKA="
+        }
+      ]
+    },
+    {
+      "Route": "js/item.egtmx8xh68.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9mn0q5w88w-egtmx8xh68.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000363504180"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egtmx8xh68"
+        },
+        {
+          "Name": "label",
+          "Value": "js/item.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4="
+        }
+      ]
+    },
+    {
+      "Route": "js/item.egtmx8xh68.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\item.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egtmx8xh68"
+        },
+        {
+          "Name": "label",
+          "Value": "js/item.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4="
+        }
+      ]
+    },
+    {
+      "Route": "js/item.egtmx8xh68.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9mn0q5w88w-egtmx8xh68.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "egtmx8xh68"
+        },
+        {
+          "Name": "label",
+          "Value": "js/item.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk="
+        }
+      ]
+    },
+    {
+      "Route": "js/item.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9mn0q5w88w-egtmx8xh68.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000363504180"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2750"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4="
+        }
+      ]
+    },
+    {
+      "Route": "js/item.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\item.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nm9MBZlc7ncEv6N46Z0S7aw24xeO0xkz6fmcLTwRcf4="
+        }
+      ]
+    },
+    {
+      "Route": "js/item.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\9mn0q5w88w-egtmx8xh68.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wgXwFWaDihAkdV4jf9C1Py0FweW47KETQ9QPqjAgvhk="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\n7mhv9i7j4-sa4d1iyubx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000991080278"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\n7mhv9i7j4-sa4d1iyubx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.sa4d1iyubx.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\n7mhv9i7j4-sa4d1iyubx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000991080278"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sa4d1iyubx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.sa4d1iyubx.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sa4d1iyubx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/N9C0GXexwav7Qyw7g/cI+SrzoQUL3V74fIRuZrAJ+k="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.sa4d1iyubx.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\n7mhv9i7j4-sa4d1iyubx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sa4d1iyubx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-St3mOCbgHvCylla3LeoBecfnfRsyurDbWVJgS/LC5RE="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.91933uwkjn.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\u95i0r1epf-91933uwkjn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000539956803"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91933uwkjn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/user.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.91933uwkjn.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\user.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91933uwkjn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/user.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.91933uwkjn.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\u95i0r1epf-91933uwkjn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91933uwkjn"
+        },
+        {
+          "Name": "label",
+          "Value": "js/user.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\u95i0r1epf-91933uwkjn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000539956803"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.js",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\user.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fWvs6HQnwRBJ299X+jm/rCqkW2pB8apo5YLst0lIkPg="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.js.gz",
+      "AssetFile": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\obj\\Debug\\net9.0\\compressed\\u95i0r1epf-91933uwkjn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-adapTocQT+fhHLm8nols/HVreFb7qHmqSfJZaMgqehU="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\css\\general.css",
+      "PackagePath": "staticwebassets\\css\\general.css"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\css\\item.css",
+      "PackagePath": "staticwebassets\\css\\item.css"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\css\\user.css",
+      "PackagePath": "staticwebassets\\css\\user.css"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\html\\item.html",
+      "PackagePath": "staticwebassets\\html\\item.html"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\html\\login.html",
+      "PackagePath": "staticwebassets\\html\\login.html"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\html\\user.html",
+      "PackagePath": "staticwebassets\\html\\user.html"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\images\\google-icon.png",
+      "PackagePath": "staticwebassets\\images\\google-icon.png"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\images\\heart.png",
+      "PackagePath": "staticwebassets\\images\\heart.png"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\images\\hide.png",
+      "PackagePath": "staticwebassets\\images\\hide.png"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\images\\visible.png",
+      "PackagePath": "staticwebassets\\images\\visible.png"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\js\\general.js",
+      "PackagePath": "staticwebassets\\js\\general.js"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\js\\item.js",
+      "PackagePath": "staticwebassets\\js\\item.js"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\תיכנות\\יד\\זילברברג\\New folder\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8\\staticwebassets\\msbuild.build.myProjectCore.props",
+      "PackagePath": "build\\myProjectCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8\\staticwebassets\\msbuild.buildMultiTargeting.myProjectCore.props",
+      "PackagePath": "buildMultiTargeting\\myProjectCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8\\staticwebassets\\msbuild.buildTransitive.myProjectCore.props",
+      "PackagePath": "buildTransitive\\myProjectCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8\\staticwebassets\\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

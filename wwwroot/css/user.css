@@ -1,0 +1,11 @@
+
+/* עיצוב עבור כותרת הדף */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#userItemsModal{
+    width: 130%;
+}
+

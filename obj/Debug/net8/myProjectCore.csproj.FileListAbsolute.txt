@@ -1,0 +1,281 @@
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\appsettings.Development.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\appsettings.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Data\Shoes.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Data\Users.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\myProjectCore.staticwebassets.runtime.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\myProjectCore.exe
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\myProjectCore.deps.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\myProjectCore.runtimeconfig.json
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\myProjectCore.pdb
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.IdentityModel.Logging.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.IdentityModel.Protocols.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.IdentityModel.Tokens.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.OpenApi.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Scalar.AspNetCore.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Swashbuckle.AspNetCore.Swagger.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\System.IdentityModel.Tokens.Jwt.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.csproj.AssemblyReference.cache
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.AssemblyInfoInputs.cache
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.AssemblyInfo.cs
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cs
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cache
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.sourcelink.json
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets.build.json
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets.development.json
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets\msbuild.build.myProjectCore.props
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets\msbuild.buildMultiTargeting.myProjectCore.props
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets\msbuild.buildTransitive.myProjectCore.props
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\staticwebassets.pack.json
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\scopedcss\bundle\myProjectCore.styles.css
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjec.88E40AB8.Up2Date
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\refint\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.pdb
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\myProjectCore.genruntimeconfig.cache
+C:\תיכנות\יד\זילברברג\myProjectCore\obj\Debug\net8\ref\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Configuration.Binder.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.DependencyModel.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Logging.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Options.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Microsoft.Extensions.Primitives.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.AspNetCore.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Extensions.Hosting.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Extensions.Logging.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Formatting.Compact.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Settings.Configuration.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Sinks.Console.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Sinks.Debug.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\Serilog.Sinks.File.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\System.Diagnostics.DiagnosticSource.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\System.IO.Pipelines.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\System.Text.Encodings.Web.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\System.Text.Json.dll
+C:\תיכנות\יד\זילברברג\myProjectCore\bin\Debug\net8\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\appsettings.Development.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\appsettings.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Data\Shoes.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Data\Users.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.staticwebassets.runtime.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.staticwebassets.endpoints.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.exe
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.deps.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\myProjectCore.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Scalar.AspNetCore.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.AspNetCore.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Extensions.Hosting.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Extensions.Logging.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Formatting.Compact.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Settings.Configuration.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Sinks.Console.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Sinks.Debug.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Serilog.Sinks.File.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\System.IO.Pipelines.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\System.Text.Json.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\bin\Debug\net8\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.sourcelink.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\scopedcss\bundle\myProjectCore.styles.css
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets.build.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets.development.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets.build.endpoints.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets\msbuild.build.myProjectCore.props
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets\msbuild.buildMultiTargeting.myProjectCore.props
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets\msbuild.buildTransitive.myProjectCore.props
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\staticwebassets.pack.json
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjec.88E40AB8.Up2Date
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\refint\myProjectCore.dll
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.pdb
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\myProjectCore.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות יד שנה ב\.net core\homework\25-5-5\.net-core-project\obj\Debug\net8\ref\myProjectCore.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\appsettings.Development.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\appsettings.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Data\Shoes.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Data\Users.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\myProjectCore.staticwebassets.runtime.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\myProjectCore.exe
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\myProjectCore.deps.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\myProjectCore.runtimeconfig.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\myProjectCore.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\myProjectCore.pdb
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Options.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Microsoft.OpenApi.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Scalar.AspNetCore.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.AspNetCore.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Extensions.Hosting.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Extensions.Logging.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Formatting.Compact.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Settings.Configuration.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Sinks.Console.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Sinks.Debug.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Serilog.Sinks.File.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\System.IO.Pipelines.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\System.Text.Encodings.Web.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\System.Text.Json.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\bin\Debug\net8\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.AssemblyInfo.cs
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets.build.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets.development.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets\msbuild.build.myProjectCore.props
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets\msbuild.buildMultiTargeting.myProjectCore.props
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets\msbuild.buildTransitive.myProjectCore.props
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\staticwebassets.pack.json
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\scopedcss\bundle\myProjectCore.styles.css
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjec.88E40AB8.Up2Date
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\refint\myProjectCore.dll
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.pdb
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\myProjectCore.genruntimeconfig.cache
+C:\Users\user1\Downloads\net-core-project-main (1)\.net-core-project-main\obj\Debug\net8\ref\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\appsettings.Development.json
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\appsettings.json
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Data\Users.json
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\myProjectCore.staticwebassets.runtime.json
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\myProjectCore.exe
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\myProjectCore.deps.json
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\myProjectCore.runtimeconfig.json
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\myProjectCore.pdb
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Configuration.Binder.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.DependencyModel.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Logging.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Options.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.Extensions.Primitives.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.IdentityModel.Logging.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.IdentityModel.Protocols.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.IdentityModel.Tokens.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Microsoft.OpenApi.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Scalar.AspNetCore.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.AspNetCore.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Extensions.Hosting.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Extensions.Logging.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Formatting.Compact.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Settings.Configuration.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Sinks.Console.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Sinks.Debug.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Serilog.Sinks.File.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Swashbuckle.AspNetCore.Swagger.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\System.Diagnostics.DiagnosticSource.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\System.IdentityModel.Tokens.Jwt.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\System.IO.Pipelines.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\System.Text.Encodings.Web.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\System.Text.Json.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.csproj.AssemblyReference.cache
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.AssemblyInfoInputs.cache
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.AssemblyInfo.cs
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.csproj.CoreCompileInputs.cache
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cs
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.MvcApplicationPartsAssemblyInfo.cache
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets.build.json
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets.development.json
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets\msbuild.build.myProjectCore.props
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets\msbuild.buildMultiTargeting.myProjectCore.props
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets\msbuild.buildTransitive.myProjectCore.props
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\staticwebassets.pack.json
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\scopedcss\bundle\myProjectCore.styles.css
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjec.88E40AB8.Up2Date
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\refint\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.pdb
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\myProjectCore.genruntimeconfig.cache
+C:\תיכנות\יד\זילברברג\New folder\obj\Debug\net8\ref\myProjectCore.dll
+C:\תיכנות\יד\זילברברג\New folder\bin\Debug\net8\Data\Tasks.json

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tasks Management</title>
+    <link rel="stylesheet" href="../css/item.css" />
+    <link rel="stylesheet" href="../css/general.css" />
+    <link rel="icon" href="../images/heart.png">
+    <script src="../js/item.js" defer></script>
+    <script src="../js/general.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <div id="header-buttons">
+            <div id="left-buttons">
+                <button id="logout-button" onclick="logoutUser()">Logout</button>
+                <button id="edit-my-details-button" onclick="openEditUserModalByHimSelf()">Edit My Details</button>
+            </div>
+            <h1>Tasks Management</h1>
+            <div id="right-buttons">
+                <button id="show-users-button" onclick="redirectToUsersPage()">Go To Users</button>
+            </div>
+        </div>
+    </header>
+    <div id="user-info">
+        <h2>Welcome, <span id="user-name"></span>!</h2>
+    </div>
+
+    <button id="add-item-button" onclick="openAddItemModal()">Add Task</button>
+
+    <!-- חלון מוקפץ להוספת משימה -->
+    <div id="addItemModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeAddItemModal()">&times;</span>
+            <h3>Add Task</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+                <input type="text" id="add-title" placeholder="Title" required>
+                <textarea id="add-description" placeholder="Description"></textarea>
+                <input type="datetime-local" id="add-dueDate" placeholder="Due Date">
+                <select id="add-status">
+                    <option value="0">Pending</option>
+                    <option value="1">In Progress</option>
+                    <option value="2">Completed</option>
+                    <option value="3">Canceled</option>
+                </select>
+                <select id="add-priority">
+                    <option value="1">Low</option>
+                    <option value="2">Medium</option>
+                    <option value="3">High</option>
+                </select>
+                <select id="add-userId"></select>
+                <input type="submit" value="Add Task">
+            </form>
+        </div>
+    </div>
+
+
+    <!-- חלון מוקפץ לעריכת משימה -->
+    <div id="editItemModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEditItemModal()">&times;</span>
+            <h3>Edit Task</h3>
+            <form action="javascript:void(0);" onsubmit="updateItem()">
+                <input type="hidden" id="edit-id">
+                <input type="text" id="edit-title" placeholder="Title" required>
+                <textarea id="edit-description" placeholder="Description"></textarea>
+                <input type="datetime-local" id="edit-dueDate" placeholder="Due Date">
+                <select id="edit-status">
+                  <option value="0">Pending</option>
+                    <option value="1">In Progress</option>
+                    <option value="2">Completed</option>
+                    <option value="3">Canceled</option>
+                </select>
+                <select id="edit-priority">
+                    <option value="1">Low</option>
+                    <option value="2">Medium</option>
+                    <option value="3">High</option>
+                </select>
+                <select id="edit-userId" style="display: none;"></select>
+                <input type="submit" value="Save Changes">
+            </form>
+        </div>
+    </div>
+
+
+    <!-- חלון מוקפץ לעריכת משתמש -->
+    <div id="editUserModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEditUserModal()">&times;</span>
+            <h3>Edit User</h3>
+            <form action="javascript:void(0);" onsubmit="updateUser()">
+                <input type="hidden" id="edit-id">
+                <input type="text" id="edit-username" placeholder="Edit Username" required>
+                <input type="text" id="edit-password" placeholder="Edit Password">
+                <input type="email" id="edit-email" placeholder="Edit Email" required>
+                <input type="submit" value="Save Changes">
+            </form>
+        </div>
+    </div>
+
+    <div id="displayUserDetailsModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeDisplayUserDetailsModal()">&times;</span>
+            <h3>User Details</h3>
+            <div id="user-details"></div>
+        </div>
+    </div>
+
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Created At</th>
+            <th>Due Date</th>
+            <th>Status</th>
+            <th>Priority</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        <tbody id="tasks"></tbody>
+    </table>
+</body>
+
+</html>

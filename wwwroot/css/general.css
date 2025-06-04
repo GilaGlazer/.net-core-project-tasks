@@ -1,0 +1,240 @@
+body,
+html {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
+    font-size: 16px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    /* padding: 10px 20px; */
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+    border-radius: none;
+    height: 130px;
+}
+
+header h1 {
+    font-size: xx-large;
+    color: #333;
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+    font-family: 'Amatic SC', cursive;
+}
+
+#header-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+}
+
+#header-buttons>div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#left-buttons button,
+#right-buttons button {
+    margin-bottom: 10px;
+    padding: 12px 17px;
+    font-size: 18px;
+}
+
+
+input[type='submit']:hover,
+button:hover,
+[aria-label]:hover,
+form input[type="submit"]:hover {
+    background-color: #364c7a;
+}
+
+
+.delete-button {
+    background-color: red;
+}
+
+
+input[type='submit'],
+form input[type="submit"],
+button,
+[aria-label] {
+    cursor: pointer;
+    background-color: #4c669f;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+    background-color: rgb(221, 5, 5);
+}
+#logout-button{
+    background-color: red;
+}
+.error-message {
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    visibility: hidden;
+    height: 20px;
+    line-height: 20px;
+}
+
+.error-message.visible {
+    visibility: visible;
+}
+
+#editForm {
+    display: none;
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* עיצוב חלונות מוקפצים (Modal) */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* רקע שקוף כהה */
+}
+
+.modal-content {
+    background-color: white;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    animation: slide-down 0.3s ease-out;
+    text-align: center
+}
+
+/* אנימציה לפתיחה */
+@keyframes slide-down {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* כפתור סגירה */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+}
+
+/* עיצוב שדות טופס */
+form input[type="text"],
+form input[type="password"],
+form input[type="email"],
+form input[type="number"],
+form input[type="submit"] {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 10px auto
+}
+
+select {
+    width: calc(95% - 20px);
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+textarea,
+input[type="datetime-local"] {
+    width: 90%;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: border-color 0.3s ease;
+}
+
+textarea {
+    min-height: 80px;
+    resize: vertical;
+}
+
+textarea:focus,
+input[type="datetime-local"]:focus {
+    outline: none;
+    border-color: #4c669f;
+    box-shadow: 0 0 5px rgba(76, 102, 159, 0.5);
+    background-color: #fff;
+}

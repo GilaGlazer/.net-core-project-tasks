@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="../css/login.css">
+  <link rel="stylesheet" href="../css/general.css">
+  <link rel="icon" href="../images/heart.png">
+  <script src="../js/login.js" defer></script>
+  <script src="../js/general.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="card login-card">
+      <h2>Login</h2>
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="text" id="email" name="email" placeholder="Enter your email">
+        </div>
+        <div class="password-wrapper form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" placeholder="Enter your password">
+          <img id="togglePassword" class="toggle-password" src="../images/visible.png" alt="Toggle visibility">
+        </div>
+
+        <!-- Sign In button -->
+        <button type="submit" class="btn btn-primary">Sign In</button>
+      </form>
+
+      <div id="error-message" class="error-message">User does not exist.</div>
+
+      <div class="divider">
+        <span>OR</span>
+      </div>
+
+      <!-- Google Sign In -->
+      <button class="btn btn-google" id="googleSignIn">
+        <img src="../images/google-icon.png" alt="Google logo">Sign in with Google
+      </button>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+#user-info {
+    font-family: 'Amatic SC', cursive;
+    padding: 15px;
+    color: red;
+}
+
+
+
+#show-users-button,
+#add-userId,
+#edit-item-id {
+    display: none;
+}
+
+#editItemModal,#addItemModal{
+    height: 130%;
+}

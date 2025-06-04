@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\item.css",
+      "PackagePath": "staticwebassets\\css\\item.css"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\css\\user.css",
+      "PackagePath": "staticwebassets\\css\\user.css"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\item.html",
+      "PackagePath": "staticwebassets\\html\\item.html"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\login.html",
+      "PackagePath": "staticwebassets\\html\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\html\\user.html",
+      "PackagePath": "staticwebassets\\html\\user.html"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\google-icon.png",
+      "PackagePath": "staticwebassets\\images\\google-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\hide.png",
+      "PackagePath": "staticwebassets\\images\\hide.png"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\images\\visible.png",
+      "PackagePath": "staticwebassets\\images\\visible.png"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\general.js",
+      "PackagePath": "staticwebassets\\js\\general.js"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\item.js",
+      "PackagePath": "staticwebassets\\js\\item.js"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\user1\\Desktop\\תכנות יד שנה ב\\.net core\\homework\\25-5-5\\.net-core-project\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.myProjectCore.props",
+      "PackagePath": "build\\myProjectCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.myProjectCore.props",
+      "PackagePath": "buildMultiTargeting\\myProjectCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.myProjectCore.props",
+      "PackagePath": "buildTransitive\\myProjectCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.myProjectCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

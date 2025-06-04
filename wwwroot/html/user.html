@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Users Management</title>
+    <link rel="stylesheet" href="../css/user.css" />
+    <link rel="stylesheet" href="../css/general.css" />
+    <link rel="icon" href="../images/heart.png">
+    <script src="../js/user.js"></script>
+    <script src="../js/general.js"></script>
+</head>
+
+<body>
+
+    <header>
+        <div id="header-buttons">
+            <div id="left-buttons">
+                <button id="logout-button" onclick="logoutUser()">Logout</button>
+            </div>
+            <h1>Users Management</h1>
+            <div id="right-buttons">
+                <button id="show-users-button" onclick="redirectToItemsPage()">Go To Tasks</button>
+            </div>
+        </div>
+    </header>
+
+    <button id="add-user-button" onclick="openAddUserModal()">Add User</button>
+
+
+    <table>
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Password</th>
+                <th>Type</th>
+                <th>Edit</th>
+                <th>Delete</th>
+                <th>User's Tasks</th>
+            </tr>
+        </thead>
+        <tbody id="users"></tbody>
+    </table>
+
+    <!-- חלון מוקפץ להוספת משתמש -->
+    <div id="addUserModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeAddUserModal()">&times;</span>
+            <h3>Add User</h3>
+            <form action="javascript:void(0);" method="POST" onsubmit="addUser()">
+                <input type="text" id="add-username" placeholder="Enter Username" required>
+                <input type="text" id="add-password" placeholder="Enter Password" required>
+                <input type="email" id="add-email" placeholder="Enter Email" required>
+                <select id="add-type" required>
+                    <option value="user">user</option>
+                    <option value="admin">admin</option>
+                </select>
+                <input type="submit" value="Add User">
+            </form>
+        </div>
+    </div>
+
+    <!-- חלון מוקפץ לעריכת משתמש -->
+    <div id="editUserModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeEditUserModal()">&times;</span>
+            <h3>Edit User</h3>
+            <form action="javascript:void(0);" onsubmit="updateUser()">
+                <input type="hidden" id="edit-id">
+                <input type="text" id="edit-username" placeholder="Edit Username" required>
+                <input type="text" id="edit-password" placeholder="Edit Password">
+                <input type="email" id="edit-email" placeholder="Edit Email" required>
+                <select id="edit-type" required>
+                    <option value="user">user</option>
+                    <option value="admin">admin</option>
+                </select>
+                <input type="submit" value="Save Changes">
+            </form>
+        </div>
+    </div>
+
+    <!-- חלון מוקפץ להצגת פריטים של משתמש -->
+    <div id="userItemsModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeUserItemsModal()">&times;</span>
+            <h3>User's Task Details</h3>
+            <div id="user-items-table"></div>
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        getUsers();
+    </script>
+</body>
+
+</html>
